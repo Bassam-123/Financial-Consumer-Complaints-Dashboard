@@ -23,3 +23,4 @@ This project involves the creation of a comprehensive Financial Consumer Complai
 
 By synthesizing data from various sources and presenting it in an intuitive, interactive format, this dashboard serves as a powerful tool for stakeholders to monitor and improve consumer satisfaction in the financial sector. It provides a clear picture of the current state of consumer complaints and aids in strategic decision-making to enhance service quality and customer experience.
 
+![Tableau Dashboard](https://github.com/user-attachments/assets/c0f0a72a-bb4b-4ee6-bf2e-81184e427716)
